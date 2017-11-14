@@ -5,9 +5,9 @@ starttime=$(date +%s)
 # defaults; export these variables before executing this script
 : ${DOMAIN:="auditchain.com"}
 : ${IP_ORDERER:="54.234.201.67"}
-: ${ORG1:="cisco"}
-: ${ORG2:="eicc"}
-: ${ORG3:="foxconn"}
+: ${ORG1:="visa"}
+: ${ORG2:="mastercard"}
+: ${ORG3:="pwc"}
 : ${IP1:="54.86.191.160"}
 : ${IP2:="54.243.0.168"}
 : ${IP3:="54.211.142.174"}
